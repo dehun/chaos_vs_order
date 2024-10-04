@@ -1,0 +1,3 @@
+- Any singing, music, drawings and musical instruments are sin and are strictly forbidden
+- musical instruments, drawings are destroyed on sight - possession is punished by 2 weeks in [[Custos]]
+-

@@ -1,0 +1,2 @@
+- [[Rykker]] and [[Valtor]] are smugglers that often stop in [[Laminaria Inn]]
+-

@@ -2,3 +2,5 @@
 - ![world.jpg](../assets/world_1727967714617_0.jpg){:height 592, :width 778}
 - [world.xcf](../assets/world_1727967754020_0.xcf)
 - use [[dnd cheatsheet]]
+- [[war]] is going on between [[Raffens]] and [[Tribes]]
+-
