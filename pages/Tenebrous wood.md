@@ -1,0 +1,4 @@
+- Contains [[Ogre quest]], [[Tenebrous bandit camp quest]]
+- Has wolves, beware of [[Tenebrous wolf encounter]]
+- Has bandits, beware [[Tenebrous bandit encounter]]
+-

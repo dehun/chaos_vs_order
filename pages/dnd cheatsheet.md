@@ -1,0 +1,2 @@
+- ![difficulity_classes.jpg](../assets/difficulity_classes_1727968128242_0.jpg)
+-

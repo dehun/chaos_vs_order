@@ -1,0 +1,5 @@
+- Main city is [[Torre del Viento]]
+- Outposts are [[Sol Medio]] and [[Estrella Fuerte]]
+-
+-
+-

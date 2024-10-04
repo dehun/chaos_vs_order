@@ -1,0 +1,3 @@
+- [[Tribes]] consists from [[Pasioneros clan]] and [[Vigilantes clan]]
+- Divided by [[Cantico mountains]]
+-

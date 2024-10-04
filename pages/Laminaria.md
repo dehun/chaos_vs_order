@@ -1,0 +1,5 @@
+- Is a fisherman village
+- Elder is [[Pierre LaFleur]]
+- Inn keeper is [[Madame Colette]]
+- Bording [[Tenebrous wood]]
+-

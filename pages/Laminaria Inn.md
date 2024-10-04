@@ -1,0 +1,3 @@
+- Cozy Inn in [[Laminaria]]
+- Stay is 5 gold per night
+- Food is 1 gold

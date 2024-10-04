@@ -1,0 +1,3 @@
+- Main city is [[Casa de la Luna]]
+- Outposts are [[Aurora]] and [[Ritmo]]
+-

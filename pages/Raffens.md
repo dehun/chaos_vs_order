@@ -1,0 +1,5 @@
+- Raffens worship [[Heironeous]].
+- Law is above everything and dictates how Raffens live
+- Music and creative activities are forbidden
+- Colours used are as plain as possible - white, black and grey are obvious choices. Colourful clothes disdained
+-

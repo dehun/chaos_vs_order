@@ -1,0 +1,2 @@
+- Bandits stole cart of provisions going to Raffen troops, bring cart back
+- Reward is 90 gold

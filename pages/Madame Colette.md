@@ -1,0 +1,3 @@
+- Gives quest [[Tenebrous bandit camp quest]]
+- Owner of an [[Laminaria Inn]]
+-

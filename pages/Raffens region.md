@@ -1,0 +1,4 @@
+- Populated by [[Raffens]]
+- Has 2 castles - [[Argentum]] and [[Custos]]
+- main cities are [[Vespera]] and [[Nexus]]
+-
