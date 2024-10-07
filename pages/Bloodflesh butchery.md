@@ -1,0 +1,2 @@
+- Is a butcher shop with spacey cellar
+- Owner is [[Butcher Gorthok Bloodflesh]]

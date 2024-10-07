@@ -1,0 +1,4 @@
+- Cultists have one and only one goal - return of [[Iron Claw]] and restoration of [[Erebusa kingdom]] to it's former glory - no more [[Raffens]] and [[Tribes]] on their land
+- Strongly believe in [[Iron Claw legend]]
+- Do human sacrifices!
+- Cultists often have dragon tattoo or dragon claw tattoo

@@ -1,0 +1,3 @@
+- A pack of wolfs can attack adventurers at night in the forest
+- [https://5e.tools/bestiary.html#wolf_xphb]
+-

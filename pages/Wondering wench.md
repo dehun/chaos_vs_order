@@ -1,3 +1,4 @@
 - A ship that discovered [[arde]]
 - Was requested by [[Lucius Waardelandis]]
--
+- Soon after arrival crew sets up a camp. Camp is discovered by [[Tribes]] and fully destroyed, all the crew is slayed. [[heroes]] survive only thanks to luck. Gold and all looking shiny is taken. Ship is set on fire - black powder detonation seals the fate of Wondering wench
+- Shipwreck can be seen around the [[arde]]

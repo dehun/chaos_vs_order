@@ -1,0 +1,5 @@
+- is a member of [[Iron Claw cult]]
+- almost 50 years old, but still beautiful
+- sacrifices young men slicing them to death with ritualistic dagger
+- hunts in [[Laminaria Inn]] for brunette man
+- lives in [[Laminaria]], works in [[Bloodflesh butchery]]

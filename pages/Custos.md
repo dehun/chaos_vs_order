@@ -1,0 +1,4 @@
+- Custos is a military outpos and a prison
+- Prisoners are maintaining the outpost
+- The problematic ones are sent mines for hard work
+-

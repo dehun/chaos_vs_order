@@ -1,3 +1,5 @@
 - Erebusa region is a frontline of war between [[Raffens]] and [[Tribes]].
 - Divided by [[Cairnwall mountains]]
 - Has small fisherman village called [[Laminaria]]
+- Used to be a separate kingdom [[Erebusa kingdom]]
+-

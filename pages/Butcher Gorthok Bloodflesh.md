@@ -1,0 +1,5 @@
+- Holds butcher shop [[Bloodflesh butchery]] in [[Laminaria]]
+- Is a member of [[Iron Claw cult]]
+- Lures his victims into cellar, where is dismembers them with a giant axe
+- ![Gorthok_Bloodflesh_stats.png](../assets/Gorthok_Bloodflesh_stats_1728311453868_0.png)
+-

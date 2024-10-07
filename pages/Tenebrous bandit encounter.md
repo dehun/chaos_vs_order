@@ -1,0 +1,4 @@
+- During the day adventurers can be attacked by bandits
+- Bandits want all the valuables and would left them go if they surrender things
+- [https://5e.tools/bestiary.html#bandit_mm]
+-

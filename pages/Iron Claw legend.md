@@ -1,0 +1,5 @@
+- When the dragon will feel the blood of the king - he will return
+- [[King Arthur Erebusa]] had a bastard - [[Julian Bas]]
+- [[Julian Bas]] was a traveling bard
+- [[Julian Bas]] had 3 sons, cult believes that sacrificing one of them would return [[Iron Claw]]
+- [[Julian Bas]] has been hanged after playing music in secret art society in [[Raffens region]]

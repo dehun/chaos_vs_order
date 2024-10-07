@@ -1,0 +1,5 @@
+- [[King Arthur Erebusa]] had 2 sons - twins [[prince Aaron]] and [[prince Kyle]], born at the same day
+- After his death sons killed each other in a duel trying to determine who will be the new king
+- Afraid of what's to come both [[Raffens]] and [[Tribes]] setted up their outposts, the [[war]] started
+- Population does not have single ruler, the only city is [[Laminaria]]. Rest of the people live in a small farms
+- [[Iron Claw]] has been saved by the king and has been guarding kingdom since then
