@@ -1,0 +1,4 @@
+- wife of [[Arden]]
+- Former battle sorcerer from [[Tribes]] army
+- Lives at [[Ardens potato farm]]
+- TODO: stats

@@ -1,0 +1,6 @@
+- Is a son of [[Julian Bas]]
+- Lives on [[Ardens potato farm]]
+- Has a [[King mark]] on left shoulder
+- Lives in a farm in the [[Tenebrous wood]] with his wife [[Lyra]]
+- Former veteran of [[Raffens]] army, dishonorable discharge for refusing executing the prisoners
+- TODO: stats

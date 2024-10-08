@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "dd-MM-yyyy"
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :graph/forcesettings {:link-dist 90}}

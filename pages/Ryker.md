@@ -1,0 +1,5 @@
+- Ryker is son of [[Julian Bas]]
+- Is descendant of the King bloodline, does not know it
+- Has [[King mark]] on left wrist
+- Lives in a [[Raffens region]]
+- Works as a prisoners guard in [[Custos]]
