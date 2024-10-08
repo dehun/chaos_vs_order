@@ -1,0 +1,4 @@
+- Located in [[Raffens region]]
+- Has been THE place where ships has been built before the [[war]]
+- Is now used to build war machines
+- Ships are not usable during the war because [[Tribes]] wizards can control sea monsters
