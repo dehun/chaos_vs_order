@@ -1,0 +1,6 @@
+- [[Agatha]] is living here with her son [[Cedric]]
+- Located in [[Tenebrous wood]]
+- [battlemap](../battle_maps/orchad_map.xcf)
+- [[heroes]] can stay here for the night
+- ![veteran_stats.png](../assets/veteran_stats_1728423678865_0.png)
+-

@@ -1,4 +1,5 @@
 - During the day adventurers can be attacked by bandits
 - Bandits want all the valuables and would left them go if they surrender things
 - [https://5e.tools/bestiary.html#bandit_mm]
--
+- ![bandit_stats.png](../assets/bandit_stats_1728423771392_0.png)
+- [battlemap](../battle_maps/bandit_encounter_forest.xcf)
