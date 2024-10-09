@@ -1,2 +1,3 @@
 - Is a butcher shop with spacey cellar
 - Owner is [[Butcher Gorthok Bloodflesh]]
+- [battlemap](../battle_maps/bloodflesh_butchery.xcf)
