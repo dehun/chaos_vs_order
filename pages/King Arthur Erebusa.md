@@ -1,3 +1,5 @@
 - King had 2 sons - [[prince Kyle]] and [[prince Aaron]], twins born on the same day
 - King had bastard - [[Julian Bas]]
+- Lived in [[Eternal Tower]]
+-
 -
