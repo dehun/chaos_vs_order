@@ -1,0 +1,7 @@
+- Heroes wake up surrounded by corpses
+- They are on the last legs - 1hp each
+- In a bit necromancer will arrive and drive them to the forest by awaking their friends as zombies
+- ![zombie.png](../assets/zombie_1728823030481_0.png)
+-
+-
+-

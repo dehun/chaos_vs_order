@@ -3,3 +3,8 @@
 - [[Julian Bas]] was a traveling bard
 - [[Julian Bas]] had 3 sons, cult believes that sacrificing one of them would return [[Iron Claw]]
 - [[Julian Bas]] has been hanged after playing music in secret art society in [[Raffens region]]
+- -----------------
+- Dragon is sleeping in the dungeon of [[Eternal tower]]
+- Blood of the king, given by him willingly with a happy spirit will awaken the dragon
+- This information can be obtained in the [[Eternal tower library]]
+-
