@@ -1,4 +1,5 @@
 - ![Therion_Oberon.jpeg](../assets/Therion_Oberon_1728418501310_0.jpeg)
+- ![Therion_Oberion_2.pdf](../assets/Therion_Oberion_2_1729180204303_0.pdf)
 - He is a lier, he lies about everything, including his orientation. After
   that situation with Dylan he never tried again to be with anyone.
 - —

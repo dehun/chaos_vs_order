@@ -1,0 +1,3 @@
+- Is a chief of [[Herberg]]
+- His son - Fred LeBlanc has been recently bitten by venomus snake - has less than a week to live, see [[Laminaria Alchemist Basilisk quest]]
+-

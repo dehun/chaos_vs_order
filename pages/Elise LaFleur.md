@@ -1,0 +1,6 @@
+- Is the most beautiful girl in the village
+- 23 years old
+- Works as an assistant to [[laminaria Alchemist Fabien Garen]]
+- Can be seduced by a bard
+- From the religious family - assassins will be sent to restore honor of the family
+-

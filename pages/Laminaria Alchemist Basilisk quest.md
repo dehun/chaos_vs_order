@@ -1,0 +1,3 @@
+- Reward is 300gp for a live basilisk
+- Fresh basilisk blood can be used to craft antidote for the son of [[Herberg chief Louis LeBlanc]] bitten by poisonus snake
+-

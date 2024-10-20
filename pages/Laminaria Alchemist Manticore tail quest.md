@@ -1,0 +1,3 @@
+- Bring a tail of manticore from [[Tenebrous wood]] cave
+- Reward is 100gp
+- TODO: make a battlemap!

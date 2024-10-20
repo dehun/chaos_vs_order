@@ -1,0 +1,6 @@
+- Sells potions and scrolls
+- Also local healer
+- Can identify items
+- Gives [[Laminaria Alchemist Manticore tail quest]]
+- Gives [[Laminaria Alchemist Basilisk quest]]
+- Resides in [[Laminaria]]

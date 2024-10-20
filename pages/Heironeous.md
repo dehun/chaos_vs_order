@@ -3,3 +3,5 @@
   by living according to Heironeous' principles of justice, honor, and
   loyalty, they can achieve true fulfillment and make the world a
   better place!
+- Symbol is lightning bolt clutched in a fist
+-
