@@ -3,6 +3,7 @@
 - Can identify items
 - Gives [[Laminaria Alchemist Manticore tail quest]]
 - Gives [[Laminaria Alchemist Basilisk quest]]
+- Gives [[Laminaria Cthulu Ftang quest]]
 - Resides in [[Laminaria]]
 - Has brother - [[Walter LaBlanc]]
 -
