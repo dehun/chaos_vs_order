@@ -3,4 +3,4 @@
 - Inn keeper is [[Madame Colette]]
 - Bording [[Tenebrous wood]]
 - Hosts [[Farmers market]] every 2 weeks at the central square
-- Alchemist is [[laminaria Alchemist Fabien Garen]]
+- Alchemist is [[laminaria Alchemist Fabien LaBlanc]]

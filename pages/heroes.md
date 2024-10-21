@@ -1,5 +1,5 @@
 - Arrive at [[arde]] at the ship [[Wondering wench]]
 - [[Tom Dondir]]
 - [[Therion Oberon]]
-- [[Nalla Ogolakanu]]
+- [[Nalla Pathfinder Ogolakanu]]
 -

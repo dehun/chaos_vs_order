@@ -1,0 +1,4 @@
+- Is a chief of [[Herberg]]
+- His son - Fred Garen has been recently bitten by venomus snake - has less than a week to live, see [[Laminaria Alchemist Basilisk quest]]
+- Asks to get rid of [[Basilisk]], players can find an egg then to solve [[Laminaria Alchemist Basilisk quest]]
+-

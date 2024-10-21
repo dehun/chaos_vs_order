@@ -1,2 +1,2 @@
-- Contains goliath village named [[Rokkhom]]
+- Contains goliath village named [[Rokkrhom]]
 -

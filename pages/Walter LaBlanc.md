@@ -1,0 +1,7 @@
+- Walter travels together with [[Jesse Roseman]] in a wagon-lab
+- Together they brew blue hallucinogenic jam. Highly addictive and strong. Overdose is lethal
+- [[Jesse Roseman]] is in this for gold
+- Walter is looking to save his son who has been captured by tribes - they demand 10000 gold of a ransom
+- He is looking for magical artifact - blue stone - it makes blueberries to grow overnight
+- It's 1/20 chance of meeting him while traveling through [[Tenebrous wood]]
+- Gives [[Blue stone quest]]

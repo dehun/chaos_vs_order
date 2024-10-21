@@ -1,0 +1,3 @@
+- He has stolen idol from the tribe of [[Nalla Pathfinder Ogolakanu]]
+- TODO: stats!
+- has 2 companions

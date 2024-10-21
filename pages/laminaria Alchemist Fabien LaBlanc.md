@@ -4,3 +4,5 @@
 - Gives [[Laminaria Alchemist Manticore tail quest]]
 - Gives [[Laminaria Alchemist Basilisk quest]]
 - Resides in [[Laminaria]]
+- Has brother - [[Walter LaBlanc]]
+-
