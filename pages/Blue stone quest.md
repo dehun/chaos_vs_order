@@ -1,3 +1,3 @@
 - Makes blueberries to grow overnight and also gives the owner power of youth
 - Is located in [[Rokkrhom]] where they use it to grow grapes for wine
--
+- #quest

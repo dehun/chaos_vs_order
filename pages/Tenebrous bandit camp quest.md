@@ -2,4 +2,8 @@
 - Reward is 90 gold
 - [https://5e.tools/bestiary.html#bandit%20captain_mm]
 - [https://5e.tools/bestiary.html#bandit_mm]
--
+- #quest, #Laminaria
+- contains [[Reverse Genie lamp quest]]
+- [battlemap](../battle_maps/bandit_camp.xcf)
+- ![Screenshot_20241030_221707.png](../assets/Screenshot_20241030_221707_1730323043743_0.png)
+- ![Screenshot_20241030_221636.png](../assets/Screenshot_20241030_221636_1730323053638_0.png)

@@ -1,0 +1,11 @@
+- I am Renie - reverse genie
+- Reverse genie gives curses
+	- Pathfinder gets floppy sword resulting in -1 to dmg and is not feeling well from the sight of blood - -2 to attack rolls
+	- Therion gets dirt all over his face and clothes, must tell only the truth or starts to stink, charisma -2
+	- Tom can't drink alcohol or talk to women directly, speaks in annoyingly high pitched voice - charisma -2
+- Genie wants
+	- A prettier home - can be obtained from [[laminaria Alchemist Fabien LaBlanc]] for 120 gold
+	- Tasty apple pie - can be obtained from [[Agathas orchad]], others are not so tasty
+	- Fish sticks and beer - can be ordered at [[Laminaria Inn]], but they are out of fish - you have to fish  Ruffe fish - have to roll less than 5 twice a in row. You need to catch 3 of them
+	- To see his grave, [[Agatha]] heard about pirate being cursed. No grave, but the sea!
+- Genie says thank you! Gives you 3 wishes, but then says that it was a joke. Gives each inspiration point instead

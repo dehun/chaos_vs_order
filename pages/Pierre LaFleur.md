@@ -1,5 +1,7 @@
 - Gives [[Ogre quest]]
+- Goes to [[Laminaria Inn]]  regularly
+- Lives in [[LaFleur casa]]
 - Protects village and will give players up for military draft by either [[Raffens]] or [[Tribes]]
 - Remembers stories about last expedition ship built before the war
 - Has grand daughter - [[Elise LaFleur]]
--
+- #Laminaria, #npc

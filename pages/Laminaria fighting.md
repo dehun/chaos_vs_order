@@ -9,3 +9,4 @@
 - 14/3/40 - 50gp - herberg champion
 - 15/4/50 - 100gp - laminaria champion, have a sorcerer help him (bless)
 - 16/5/100 - 200gp - traveling goliath
+- #Laminaria, #quest

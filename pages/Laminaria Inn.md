@@ -2,3 +2,4 @@
 - Stay is 5 gold per night
 - Food is 1 gold
 - Has a huge fighting ring in the middle, see [[Laminaria fighting]]
+- #Laminaria
