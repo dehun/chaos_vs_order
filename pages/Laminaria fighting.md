@@ -4,7 +4,7 @@
 - Magic assist is also strongly prohibited, violators will be send to [[Custos]] to work in an iron mine for a month
 - Fights go every evening between worthy oponents
 - ac/strmod/hp
-- 12/1/20 - 10gp - local fisherman looking for fun
+- 12/1/20 - 15gp - local fisherman looking for fun // 11, 6, 0
 - 13/2/30 - 20gp - local blacksmith
 - 14/3/40 - 50gp - herberg champion
 - 15/4/50 - 100gp - laminaria champion, have a sorcerer help him (bless)

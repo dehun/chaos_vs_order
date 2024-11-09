@@ -1,5 +1,5 @@
 - Bandits stole cart of provisions going to Raffen troops, bring cart back
-- Reward is 90 gold
+- Reward is 70 gold
 - [https://5e.tools/bestiary.html#bandit%20captain_mm]
 - [https://5e.tools/bestiary.html#bandit_mm]
 - #quest, #Laminaria

@@ -3,3 +3,6 @@
 - sacrifices young men slicing them to death with ritualistic dagger
 - hunts in [[Laminaria Inn]] for brunette man
 - lives in [[Laminaria]], works in [[Bloodflesh butchery]]
+- works with [[laminaria Alchemist Fabien LaBlanc]]
+- left hand tattoo
+-

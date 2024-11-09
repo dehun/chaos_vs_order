@@ -1,0 +1,9 @@
+- Carlo Snijder had no children and one day he stole magical book from traveling wizard [[Walter LaBlanc]]
+- He made a boy out of wood, this was 6 years ago - Woddy has been "born"
+- Woddy had no friends and watched father carving out of wood beautiful furniture
+- Woddy wanted to grow and wanted friends. One day he asked this from Carlo and he killed him when he refused
+- Woddy made himself friends - 2 more
+- Woddy is of habit of cutting faces out of his victims in order to look like real teenager
+- TODO: sawmill map
+- TODO: Woddy and friends stats
+- TODO: rewards

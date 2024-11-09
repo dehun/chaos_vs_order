@@ -1,0 +1,8 @@
+- Laminaria Inn is building nr 140, making the room number 1408
+- Room will attempt to kill guests
+- One day heroes wake up in the room and the door is not there
+- When they look outside they see previous house with bright number "marketplaats 139"
+- Ghosts will appear every 10 minutes to torture them (TODO: ghost stats)
+- Room has bookshelf with numerous books, one of them contains a key that will lead to a boss fight (TODO: boss ghost stats)
+- One of the bookshelfs has selection of books by Steven Koning
+-
