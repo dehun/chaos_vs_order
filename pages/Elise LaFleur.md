@@ -3,4 +3,4 @@
 - Works as an assistant to [[laminaria Alchemist Fabien LaBlanc]]
 - Can be seduced by a high charisma
 - From the religious family - assassins will be sent to restore honor of the family
--
+- Promised to dance with Tom(6+14) and Therion (dirty 20)

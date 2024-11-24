@@ -1,4 +1,8 @@
 - Reward is 150gp for a live basilisk
-- Fresh basilisk blood can be used to craft antidote for the son of [[Herberg chief Louis Garen]] bitten by poisonus snake
-- Basilisk has settled on one of the farms on west side of [[Herberg]]
+- Fresh basilisk blood can be used to craft antidote for the son of [[Herberg chief Louis Garen]] bitten by baby basilisk
+- Basilisk has settled on one of the farms cellars on west side of [[Herberg]]
+- [battlemap](./battle_maps/basilisk_cellar.xcf)
+-
+- ![Screenshot_20241124_194129.png](../assets/Screenshot_20241124_194129_1732473826880_0.png)
+- ![Screenshot_20241124_194625.png](../assets/Screenshot_20241124_194625_1732473994895_0.png)
 -

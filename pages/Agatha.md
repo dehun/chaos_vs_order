@@ -1,0 +1,3 @@
+- will get players out of trouble if they all incapacitated
+- You wake up at Agatha's cellar. 3 dead goats are lying around gigantic pentagram. Agatha is meditating in the middle of it. Cedric is sitting in front of pentagram all in blood of goats - players can see [[King mark]]
+-

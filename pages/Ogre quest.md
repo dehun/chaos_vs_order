@@ -1,6 +1,6 @@
 - Gorb, Krogg and Zogg are ogres that terrorise village of [[Laminaria]]
-- Players can fall through a trap (10 passive wisdom check). If they do then they end up in Ogres cave.
+- Players can fall through a trap (15 passive wisdom check). If they do then they end up in Ogres cave.
 - [battlemap](../battle_maps/ogr_cave.xcf)
 - [https://5e.tools/bestiary.html#ogre_mm]
 -
--
+- ![Screenshot_20241114_190818.png](../assets/Screenshot_20241114_190818_1731607717156_0.png)
