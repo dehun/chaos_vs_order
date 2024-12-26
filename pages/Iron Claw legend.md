@@ -5,6 +5,9 @@
 - [[Julian Bas]] has been hanged after playing music in secret art society in [[Raffens region]]
 - -----------------
 - Dragon is sleeping in the dungeon of [[Eternal tower]]
-- Blood of the worthy king, given by him willingly with a happy spirit will awaken the dragon to protect him and the kingdom of Erebusa
+	- When 3 sons are at peace with each other and happy
+	- When they have elected the new king
+	- When new king opens the [[Eternal Tower]] with [[Eternal Tower Key]] in front of 2 other sons
+	-
 - This information can be obtained in the [[Eternal tower library]]
 -

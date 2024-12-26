@@ -1,0 +1,4 @@
+- [[Walter LaBlanc]] would like to purchase bunch of glass bottles from [[Fles Glazen]]
+- He is reluctant to sell though - prices are extraorbitant
+- Walter needs 100 small containers to sell jam, with lids. Glass is the best, but other will do
+- Is willing to pay you 100 gold for this.

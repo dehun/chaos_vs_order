@@ -3,3 +3,4 @@
 - Has [[King mark]] on left wrist
 - Lives in a [[Raffens region]]
 - Works as a prisoners guard in [[Custos]]
+-

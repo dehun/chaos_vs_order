@@ -3,4 +3,4 @@
 - Lures his victims into cellar, where is dismembers them with a giant axe
 - ![Gorthok_Bloodflesh_stats.png](../assets/Gorthok_Bloodflesh_stats_1728311453868_0.png)
 - Got promised Basilisk by [[Nalla Pathfinder Ogolakanu]]
--
+- 2 gold for 3 sausages++gf

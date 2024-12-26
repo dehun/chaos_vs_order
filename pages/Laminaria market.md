@@ -1,0 +1,27 @@
+- Hosts market brawl - brutal wall fight with mockswords, 6 on 6, topless
+	- Cedric participates - [[heroes]] can see [[King mark]] on his back, gives +15 to score every roll
+	- dex + con + str = roll modifier. Each fighter rolls d20 + roll mod 5 times. The winning team receives 30 gold and free lunch at [[Laminaria Inn]]
+	- bookie is there, bids are 2 to 3 against team with [[Cedric]]
+- same as [[Farmers market]]
+- [[Jesse Roseman]] is around town trying to sneakingly sell [[blue jam]]
+- [[Cultist Morvane Darkfire]] is helping [[Butcher Gorthok Bloodflesh]] to sell sausages and sauces on their common stall
+	- they also sell some simplistic weapons and equipment
+	- they can sell your things for small margin - ah hell, they will do it because you helped with a statue
+- [[laminaria Alchemist Fabien LaBlanc]] and [[Elise LaFleur]] are selling potions
+	- love potions = 5 gold per piece - casts fast friends on target
+	- hair dye potions = 5 gold per piece
+	- strength potions (+1) = 10 gold per piece
+	- lipsticks - a fabulous invention for girls
+- [[Anna Heks]] is selling potions and wine
+	- health potion = 25 gold, works half of the time
+	- aged wine 20 years = 25 gold, 50 years = 50 gold
+	- [[blue jam]] if you convince her to sell it to you for 50 gold
+- [[Ijzer Smolten]] sells hooks and metal things for fishermans, hinges, etc
+- [[Fles Glazen]] sells all kinds of glassware
+- [[Arden]] and [[Lyra]] selling potato
+-
+- pathfinder(8) + gorthok(10+1) + ijzer(10) + champ(9) + guy(6) + guy(6)
+- cedric(15)      +     arden(15) + guy(5) + guy(5) + guy(5) + guy(5)
+	- 8, 11, 10, 9, 6, 6  =51
+	- 15, 15, 5, 5, 5, 5 =50
+	-

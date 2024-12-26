@@ -1,0 +1,13 @@
+- Costs 25 gold per small jar containing 1 serving
+- gonna make you fly - kicks like a mull - 4 hours only
+	- makes you feel powerful, gives strong sense of euphoria
+	- gives 1 more spell slot of highest level you have or +1 rage
+	- gives advantage on first attack against target
+	- gives +2 strength
+	- attack has only 50% chance of breaking you concentration (d20 < 10 is fail)
+- Highly addictive. Taking n gives n days of
+	- You feel miserable and weak
+	- disadvantage on first attack
+	- -1 strength
+	- -1 spell slot of highest level you have or -1 rage
+	- you can't concentrate

@@ -1,0 +1,7 @@
+- Kings bloodline, son of [[Julian Bas]]
+- Former veteran of Raffens army
+- Discharged after 10 years of service
+- Strong as a bull
+- Brunette
+- Considers [[Agatha]] to be his mother, but Agatha is not his real mother. And his brother was step brother
+-

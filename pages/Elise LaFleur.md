@@ -3,4 +3,6 @@
 - Works as an assistant to [[laminaria Alchemist Fabien LaBlanc]]
 - Can be seduced by a high charisma
 - From the religious family - assassins will be sent to restore honor of the family
-- Promised to dance with Tom(6+14) and Therion (dirty 20)
+- Promised to dance with Tom(6+14+10+13=43),  Therion (d20+8+9=37), Pathfinder(15+6+14=35)
+- Elise would love to run away from this boring village and explore the region. Will ask to do so after the market.
+-

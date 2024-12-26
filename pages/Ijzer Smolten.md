@@ -1,0 +1,4 @@
+- Is a blacksmith, comes to [[Laminaria market]]
+- Brings bunch of small metal things useful for fishing and gardening
+- Does not bring any weapons or armor - locals don't buy it much. But can craft something on demand - can be picked up in [[Herberg]] or at the market in 2 weeks
+- Friends with [[Carlo Snijder sawmill quest]]
