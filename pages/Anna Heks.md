@@ -1,3 +1,4 @@
 - Anna Heks has a stall at [[Laminaria market]]
 - Sells health potions
 - Is friend of [[Carlo Snijder sawmill quest]] - worries about his whereabouts - he has not showed up for a few days already
+-

@@ -1,2 +1,2 @@
-- Information about [[Eternal Tower]] can be found in [[Abandoned Tribes mutant laboratory]]
+- Information about [[Eternal Tower]] can be found in [[Abandoned Tribes mutant laboratory - onderzoek]]
 -

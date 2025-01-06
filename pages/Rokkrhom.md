@@ -1,3 +1,0 @@
-- Is a home to a tribe of goliaths
-- [[Lazaphak Longpicker Agu-Vithino]] is hiding here
--

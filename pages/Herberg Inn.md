@@ -1,3 +1,4 @@
 - Owned by [[Herberg chief Louis Garen]], he is also an inn keeper
 - Inn is also used as city hall
+- 5 gold per night
 -

@@ -1,0 +1,22 @@
+- See [[blue jam bottles quest]]
+- Consists of 5 levels
+	- 1st level - entrance, personal rooms, washing room with jars - 1400 small jars located here, dexterity(stealth) check if attract monsters or not
+	- 2nd level - library, laboratory -
+	- 3rd level - cages, operation room -
+	- 4th level - incenerator and more cages -
+	- 5th level - head master office and armory - contains manuscript describing [[Iron Claw legend]]
+- Built to produce combat mutants through necromantic experiments
+-
+- The idea was to make a mutant that is capable of taking down mages, basically a mage killer
+	- The creature has no eyes or ears, big mouth full of venomous teeth and sharp claws. It looks like humanoid with almost glowing white skin. It has not seen sun and despises it
+	- soldier - close combat version - attacks with claws and teeth
+	- ![Screenshot_20250104_210357.png](../assets/Screenshot_20250104_210357_1736021046189_0.png)
+	- werper - telekinetic monster, fully imune to magical attacks
+	- ![Screenshot_20250104_211238.png](../assets/Screenshot_20250104_211238_1736021597477_0.png)
+	- psychonaut
+	- ![Screenshot_20250104_211619.png](../assets/Screenshot_20250104_211619_1736021796383_0.png)
+	- fire mutant
+	- ![Screenshot_20250104_211735.png](../assets/Screenshot_20250104_211735_1736021875319_0.png)
+	- ![Screenshot_20250104_212121.png](../assets/Screenshot_20250104_212121_1736022090471_0.png)
+	-
+-

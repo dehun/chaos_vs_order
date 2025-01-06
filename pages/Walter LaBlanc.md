@@ -3,9 +3,10 @@
 - [[Jesse Roseman]] is in this for gold
 - Walter is looking to save his son who has been captured by tribes 10 years ago - they demand 10000 gold of a ransom
 - He is looking for magical artifact - blue stone - it makes blueberries to grow overnight
+-
 - It's 1/20 chance of meeting him while traveling through [[Tenebrous wood]]
 - Gives [[Blue stone quest]]
 - Lost book around 6 years ago, can be found at [[Carlo Snijder sawmill quest]]
 - Knows a lot about [[Iron Claw]]
-- Gives [[blue stone bottles quest]]
+- Gives [[blue jam bottles quest]]
 -
