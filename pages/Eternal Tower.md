@@ -1,3 +1,6 @@
 - Former capital of [[erebusa region]]
 - Now abandoned - most of the houses are ruins after front went few times there and back through it
--
+- Has [[Cathedral of Iron Claw]]
+- Eternal tower is the main building - can only be opened with blood of a king drawn by him willingly
+	- King should be at peace with himself
+	- King should be happy

@@ -1,10 +1,27 @@
 - See [[blue jam bottles quest]]
-- Consists of 5 levels
+- Consists of 6 levels
 	- 1st level - entrance, personal rooms, washing room with jars - 1400 small jars located here, dexterity(stealth) check if attract monsters or not
-	- 2nd level - library, laboratory -
-	- 3rd level - cages, operation room -
+	- 2nd level - library, laboratory
+		- contains manuscripts describing sons of [[Julian Bas]]
+			- [[King mark]]
+			- [[Cedric]], [[Arden]], [[Ryker]], [[Zarek]]
+	- 3rd level - cages, operation room
+		-
 	- 4th level - incenerator and more cages -
-	- 5th level - head master office and armory - contains manuscript describing [[Iron Claw legend]]
+	- 5th level - head master office and armory - some cool armor and weapons, few medkits, key to level 6
+		- manuscript describing how to use [[Eternal Tower Key]]
+		- notebook about onderzoek
+	- 6th level - sleeping corrupted Iron Claw, the ultimate weapon, entrance is huge gate closed by unbreakable magic
+		- contains [[Eternal Tower Key]]
+		- experiment went wrong, Corrupted Iron Claw is uncontrollable beast that only wants to kill
+		- it's sleeping and chained, chains got rusty from time
+		- presence of meat awakens him, he breaks rusty chains and is ready to kill, roll initiative
+		- if you fail to kill it - it's going to start destroying and eating
+			- Agatha's orchad on day 1
+			- Laminaria on day 2
+			-
+		-
+		-
 - Built to produce combat mutants through necromantic experiments
 -
 - The idea was to make a mutant that is capable of taking down mages, basically a mage killer

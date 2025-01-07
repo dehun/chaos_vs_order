@@ -4,7 +4,8 @@
 - [[Julian Bas]] had 3 sons, cult believes that sacrificing one of them would return [[Iron Claw]]
 - [[Julian Bas]] has been hanged after playing music in secret art society in [[Raffens region]]
 - -----------------
-- Dragon is sleeping in the dungeon of [[Eternal tower]]
+- Actual Iron Claw has been corrupted while sleeping and [[Abandoned Tribes mutant laboratory - onderzoek]] has been built around him
+- Dragon is egg is in the dungeon of [[Eternal tower]]
 	- When 3 sons are at peace with each other and happy
 	- When they have elected the new king
 	- When new king opens the [[Eternal Tower]] with [[Eternal Tower Key]] in front of 2 other sons
