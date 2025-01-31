@@ -1,7 +1,8 @@
-- [[Rykker]] and [[Valtor]] are smugglers that often stop in [[Laminaria Inn]]
-- They can transfer players to other side of [[Cairnwall mountains]] for 100gp per person
-- They can transfer players to  [[Tribes region]] for 500gp per person
-- They can transfer players to [[Raffens region]] for 500gp per person
+- [[Rykker]] and [[Valtor]] are smugglers that often stop in [[Laminaria Inn]], [[Herberg Inn]]
+- They can transfer players to other side of [[Cairnwall mountains]] for 1000gp per person
+- They can transfer players to  [[Tribes region]] for 1000gp per person
+- They can transfer players to [[Raffens region]] for 1000gp per person
 - They can transfer to [[erebusa region]] for 200gp per person
 - Only smugglers know how to through the secret caves that go in the mountains
 - All other ways are heavily guarded
+- 100gp - for a lute, in 5 days to [[Ardens potato farm]]

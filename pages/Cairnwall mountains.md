@@ -1,2 +1,9 @@
 - Contains goliath village named [[Rokfal]]
--
+- labyrinth monsters:
+	- 1 - ![Screenshot_20250121_221247.png](../assets/Screenshot_20250121_221247_1737493980918_0.png)
+	- 2 - ![Screenshot_20250121_221613.png](../assets/Screenshot_20250121_221613_1737494184332_0.png)
+	- 3 - ![Screenshot_20250121_221836.png](../assets/Screenshot_20250121_221836_1737494328676_0.png)
+	- 4 - ![Screenshot_20250121_222235.png](../assets/Screenshot_20250121_222235_1737494578191_0.png)
+	- 5 - ![Screenshot_20250121_222441.png](../assets/Screenshot_20250121_222441_1737494691849_0.png)
+	- 6 - ![Screenshot_20250121_222618.png](../assets/Screenshot_20250121_222618_1737494789918_0.png)
+	-

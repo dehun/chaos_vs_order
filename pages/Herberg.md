@@ -1,3 +1,4 @@
 - Consists of bunch of farms
 - Central place of "town" is inn called herberg, see [[Herberg Inn]]
+- [[Shmerple the simstress]] sells costumes
 -

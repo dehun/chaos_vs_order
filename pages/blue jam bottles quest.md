@@ -1,7 +1,7 @@
 - [[Walter LaBlanc]] would like to purchase bunch of glass bottles from [[Fles Glazen]]
 - He is reluctant to sell though - prices are extraorbitant
 - Walter needs 1000 small containers to sell jam, with lids. Glass is the best, but other will do
-- Is willing to pay you 100 gold for bottles.
+- Is willing to pay you 200 gold for bottles.
 -
 - [[Walter LaBlanc]] proposes to visit old mutant breeding facility hidden in the forest closer to the tribes
 	- Facility was used by tribes necromancers to breed mutants - fearce warriors

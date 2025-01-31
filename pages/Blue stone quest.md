@@ -1,6 +1,7 @@
 - Makes blueberries to grow overnight and also gives the owner power of youth.
 - It amplifies "life transfer" ritual - a ritual sacrificing one life in exchange for other. One human now can power the whole field of blueberries
 - Is located in [[Rokfal]] where they use it as an idol of tribe. For protecting from evil.
+- Also can be found in labyrinth under [[Cairnwall mountains]]
 - Walter is willing to pay 300 gold for this quest
 - Is required to progress in [[Iron Claw quest]]
 -

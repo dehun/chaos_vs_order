@@ -1,3 +1,4 @@
 - He has stolen idol from the tribe of [[Nalla Pathfinder Ogolakanu]]
 - TODO: stats!
-- has 2 companions
+- has 2 companions - brothers Abubu and Abobo
+-

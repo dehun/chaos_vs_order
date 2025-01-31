@@ -1,4 +1,7 @@
 - Anna Heks has a stall at [[Laminaria market]]
 - Sells health potions
 - Is friend of [[Carlo Snijder sawmill quest]] - worries about his whereabouts - he has not showed up for a few days already
+- Drains life out of Tom
+	- Got it 4 times = at 5 dexterity -1 because knees are weak and look 6 years older
+- Asks to bring her [[blue stone]] for 300 gold
 -

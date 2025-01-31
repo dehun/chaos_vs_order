@@ -1,3 +1,7 @@
 - Is a home to a tribe of goliaths
 - [[Lazaphak Longpicker Agu-Vithino]] is hiding here
+- No fighting in the village!
+- Tribe will not give you Longpicker just for fun, they don't like him much, but he is still doing useful things around
+- Leader of the tribe  - "Bigstomp"  is very fond of wine, will sell out Lazaphak for 5 bottles of good old wine and some fancy meat
+- Tribe worships [[blue stone]] as protection from evil
 -
