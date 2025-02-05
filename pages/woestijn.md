@@ -1,0 +1,3 @@
+- Is a desert on other side of [[Cairnwall mountains]]
+- Has a ship stranded in there - named [[Camelos]]
+-

@@ -1,0 +1,5 @@
+- A ship guarded by Manticoras (5 pieces)
+- has 3 levels
+- this ship can fly, this information is available from logbook which is hidden in the chest at the last level
+- Camelos can be sorted out by bunch of magical components and only [[Walter LaBlanc]] together with [[Arden]]'s Layra can fix it
+-

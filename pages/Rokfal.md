@@ -2,6 +2,7 @@
 - [[Lazaphak Longpicker Agu-Vithino]] is hiding here
 - No fighting in the village!
 - Tribe will not give you Longpicker just for fun, they don't like him much, but he is still doing useful things around
-- Leader of the tribe  - "Bigstomp"  is very fond of wine, will sell out Lazaphak for 5 bottles of good old wine and some fancy meat
+- Leader of the tribe  - "Bigstomp"  is very fond of wine, will sell out Lazaphak for 5 barrels of good middle aged wine and some fancy meat enough to feed 15 goliaths
 - Tribe worships [[blue stone]] as protection from evil
+- 3 weeks
 -
