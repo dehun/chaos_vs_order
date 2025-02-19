@@ -7,3 +7,8 @@
 	- 5 - ![Screenshot_20250121_222441.png](../assets/Screenshot_20250121_222441_1737494691849_0.png)
 	- 6 - ![Screenshot_20250121_222618.png](../assets/Screenshot_20250121_222618_1737494789918_0.png)
 	-
+- Everybody runs, all red dots disappear
+- Face the Balor, fire deamon
+-
+- ![Screenshot_20250219_185425.png](../assets/Screenshot_20250219_185425_1739987679350_0.png)
+- Blue stone is surrounded by 600 gold worth of other stones
