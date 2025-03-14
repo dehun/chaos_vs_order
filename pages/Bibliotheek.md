@@ -1,6 +1,6 @@
 - Entrance is guarded by powerful Golems
 - Golems don't attack if royal blood is present
-- All the books have been moved to orzoek
+- All the books have been moved to orzoek [[Abandoned Tribes mutant laboratory - onderzoek]]
 - Librarian is hiding there - Leesmeer
 	- He is hiding dragon eggs waiting for them to hatch, but hope is not there
 	- All the books and research have been moved to [[Abandoned Tribes mutant laboratory - onderzoek]] by dark hooded tribe necromancers

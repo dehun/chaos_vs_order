@@ -13,7 +13,7 @@
 			- if you take the gold -
 			- ![Screenshot_20250219_184903.png](../assets/Screenshot_20250219_184903_1739987397753_0.png)
 			-
-			-
+			- has interesting glass device attached to her on a place where ear supposed to be
 			-
 		-
 - this ship can fly, this information is available from logbook which is hidden in the chest at the middle level
@@ -21,6 +21,6 @@
 - Contains huge sacrificial stone in the middle of the ship, from there blood has been dripping onto the heart
 - At some point slaves attempted to escape and managed to pierce dragons heart with a sword, "killing" it
 - Escaping slaves have been killed by the crew. Ship dropped in [[woestijn]] and crew escaped in unknown direction
-- Slaves can be purchased from the tribes encampment. 20 people - farmers who had no money to pay. Price is 500 gold.
+- Slaves can be purchased from the tribes encampment. 20 people - farmers who had no money to pay. Price is 1000 gold.
 - ![Screenshot_20250219_183103.png](../assets/Screenshot_20250219_183103_1739986303049_0.png)
 -
