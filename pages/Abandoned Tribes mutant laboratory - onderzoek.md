@@ -7,16 +7,31 @@
 			- [[Cedric]], [[Arden]], [[Ryker]], [[Zarek]]
 	- 3rd level - cages, operation room
 		- contains [[blood distillator]]
-		-
+		- instructions on how to use it
 	- 4th level - incenerator and more cages -
 	- 5th level - head master office and armory - some cool armor and weapons, few medkits, key to level 6
+		- body of headmaster
 		- manuscript describing Erebusa curse
 			- King is only worthy of a dragon if and only if
 				- He is ready to give his blood for it
 				- He is supported by his brothers
 				- People from other tribes are ready to give their blood for him
-				- King has found his peace and lives a happy life
+				- King has found his peace, love and lives a happy life
+				- King has unity among Raffens, Tribes and Erebusa people under one roof
 		- notebook about orzoek
+			- tried to breed anti mages while being mages themselves
+			- experiment went to well - we created ultimate mage killers
+			- our next step is to create ultimate weapon, we will use him for our purpose!
+				- we have succesfully destroyed creatures conscioness
+				- we are trying to get control over creature, but we are not successfull so far
+				- experiment is ongoing, but this creature is too strong!
+			- outbreak - prisoners escaped and opened the cages
+				- I have been fortunate enough to baricade myself into this room
+				- I have broken all mirrors, they use them as doors
+				- I can hear screams from the upstairs
+				- I am running out of food and water
+				- I will never see the sun again
+			-
 	- 6th level - sleeping corrupted Iron Claw, the ultimate weapon, entrance is huge gate closed by unbreakable magic
 		- contains [[Eternal Tower Key]]
 		- experiment went wrong, Corrupted Iron Claw is uncontrollable beast that only wants to kill
