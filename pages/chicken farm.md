@@ -1,0 +1,10 @@
+- Has a source of chickens for flying ship
+- Edric and Elara are living here. With 2 sons - Thorne and Lyndon
+- Farm stands almost at the desert - ideal place to breed chickens
+- Serjant Murdak, Dash and Bash have come to gather payment for tribes, but most likely they just gathering this payment for themselvs!
+- Payment is not there, because there is nobody to sell chickens to
+- Kill Murdak - nobody is going to miss him - his own people are not excited about him because he is not into music.
+- Help family to sell chickens!
+- ![2025-03-24 17_15_41-Bandit Crime Lord - 5etools — Mozilla Firefox.jpg](../assets/2025-03-24_17_15_41-Bandit_Crime_Lord_-_5etools_—_Mozilla_Firefox_1742833066496_0.jpg)
+- ![2025-03-24 17_17_12-Bandit Deceiver - 5etools — Mozilla Firefox.jpg](../assets/2025-03-24_17_17_12-Bandit_Deceiver_-_5etools_—_Mozilla_Firefox_1742833073985_0.jpg)
+-
