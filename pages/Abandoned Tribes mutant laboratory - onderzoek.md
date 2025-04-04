@@ -6,11 +6,17 @@
 			- [[King mark]]
 			- [[Cedric]], [[Arden]], [[Ryker]], [[Zarek]]
 	- 3rd level - cages, operation room
+		- contains [[blood distillator]]
 		-
 	- 4th level - incenerator and more cages -
 	- 5th level - head master office and armory - some cool armor and weapons, few medkits, key to level 6
-		- manuscript describing how to use [[Eternal Tower Key]]
-		- notebook about onderzoek
+		- manuscript describing Erebusa curse
+			- King is only worthy of a dragon if and only if
+				- He is ready to give his blood for it
+				- He is supported by his brothers
+				- People from other tribes are ready to give their blood for him
+				- King has found his peace and lives a happy life
+		- notebook about orzoek
 	- 6th level - sleeping corrupted Iron Claw, the ultimate weapon, entrance is huge gate closed by unbreakable magic
 		- contains [[Eternal Tower Key]]
 		- experiment went wrong, Corrupted Iron Claw is uncontrollable beast that only wants to kill
