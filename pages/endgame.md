@@ -1,0 +1,4 @@
+- Heroes go through [[Abandoned Tribes mutant laboratory - onderzoek]]
+- They find information about Erebusa curse and release the dragon
+- Leesmeer has a torn page out of Erebusa family history book with story about [[Julian Bas]]
+-

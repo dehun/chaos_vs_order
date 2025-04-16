@@ -8,7 +8,7 @@
 	- 3rd level - cages, operation room
 		- contains [[blood distillator]]
 		- instructions on how to use it
-	- 4th level - incenerator and more cages -
+	- 4th level - incenerator and more cages - just fight fight fight
 	- 5th level - head master office and armory - some cool armor and weapons, few medkits, key to level 6
 		- body of headmaster
 		- manuscript describing Erebusa curse
@@ -24,6 +24,7 @@
 			- our next step is to create ultimate weapon, we will use him for our purpose!
 				- we have succesfully destroyed creatures conscioness
 				- we are trying to get control over creature, but we are not successfull so far
+				- it looks like we need royal blood to get this beast under the control. Descendants would have quite deluted blood, we need built a distillator
 				- experiment is ongoing, but this creature is too strong!
 			- outbreak - prisoners escaped and opened the cages
 				- I have been fortunate enough to baricade myself into this room
@@ -31,9 +32,8 @@
 				- I can hear screams from the upstairs
 				- I am running out of food and water
 				- I will never see the sun again
-			-
 	- 6th level - sleeping corrupted Iron Claw, the ultimate weapon, entrance is huge gate closed by unbreakable magic
-		- contains [[Eternal Tower Key]]
+		- contains book about dragons
 		- experiment went wrong, Corrupted Iron Claw is uncontrollable beast that only wants to kill
 		- it's sleeping and chained, chains got rusty from time
 		- presence of meat awakens him, he breaks rusty chains and is ready to kill, roll initiative
