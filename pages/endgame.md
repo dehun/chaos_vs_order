@@ -1,4 +1,8 @@
 - Heroes go through [[Abandoned Tribes mutant laboratory - onderzoek]]
 - They find information about Erebusa curse and release the dragon
 - Leesmeer has a torn page out of Erebusa family history book with story about [[Julian Bas]]
--
+- To succeed heroes should
+	- kill the iron claw - it's dead anyway
+	- break the curse by fullfilling conditions and pooring the blood on the egg
+	- older the dragon using blue stone
+	-

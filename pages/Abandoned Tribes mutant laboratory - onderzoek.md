@@ -24,7 +24,7 @@
 			- our next step is to create ultimate weapon, we will use him for our purpose!
 				- we have succesfully destroyed creatures conscioness
 				- we are trying to get control over creature, but we are not successfull so far
-				- it looks like we need royal blood to get this beast under the control. Descendants would have quite deluted blood, we need built a distillator
+				- it looks like we need royal blood to get this beast under the control. Descendants would have quite deluted blood, we need built a disbtillator
 				- experiment is ongoing, but this creature is too strong!
 			- outbreak - prisoners escaped and opened the cages
 				- I have been fortunate enough to baricade myself into this room
@@ -54,6 +54,7 @@
 	- psychonaut
 	- ![Screenshot_20250104_211619.png](../assets/Screenshot_20250104_211619_1736021796383_0.png)
 	- fire mutant
+	- ![Screenshot_20250423_192529.png](../assets/Screenshot_20250423_192529_1745429208050_0.png)
 	- ![Screenshot_20250104_211735.png](../assets/Screenshot_20250104_211735_1736021875319_0.png)
 	- ![Screenshot_20250104_212121.png](../assets/Screenshot_20250104_212121_1736022090471_0.png)
 	-
