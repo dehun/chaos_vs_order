@@ -1,3 +1,3 @@
 - Julian has been traveling bard
-- Had 4 sons from different women - [[Ryker]], [[Arden]], [[Zarek]], [[Cedric]]
+- Had 3 sons from different women - [[Ryker]], [[Arden]], [[Cedric]]
 -
