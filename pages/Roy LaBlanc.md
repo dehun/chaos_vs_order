@@ -1,0 +1,2 @@
+- Had argument with [[Walter LaBlanc]] and left to fight for [[Tribes]]
+-

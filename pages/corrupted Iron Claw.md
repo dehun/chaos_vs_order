@@ -1,0 +1,17 @@
+- (stats)[https://roll20.net/compendium/dnd5e/Adult%20Black%20Dragon#content]
+- Dragon has 500 health
+- Rocket launcher makes 15d10 damage fire damage
+- Machine gun makes 10d10 damage, can shoot 6 times - then bullets are over
+- Arden and Layra are gathering crowd - you can advice them whom to take with you
+	- Anna - uber heals, will heal you 1d10 each turn on beginning of your turn V
+	- Morvane - uber heals, will heal you 1d10 each turn on beginning of your turn V
+	- Gortok - more tanking! V
+	- Mama Agatha - refuses X
+	- Pathfinder - more tanking! with goliath tribe! V
+	- Fabian - self guided rocket launcher and can try to construct machineguns, +3 bursts V
+	- Jessy and Walter - will bring machineguns and jam V
+	- Leesmeer (+10d10 to damages) V
+	- 3 Dwarves pieces, (captain dwarves) V
+	-
+	-
+-

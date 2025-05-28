@@ -1,6 +1,6 @@
 - See [[blue jam bottles quest]]
 - Consists of 6 levels
-	- 1st level - entrance, personal rooms, washing room with jars - 1400 small jars located here, dexterity(stealth) check if attract monsters or not
+	- 1st level - entrance, personal rooms, washing room with jars - 1400 small jars located here, dexterKity(stealth) check if attract monsters or not
 	- 2nd level - library, laboratory
 		- contains manuscripts describing sons of [[Julian Bas]]
 			- [[King mark]]
@@ -10,7 +10,7 @@
 		- instructions on how to use it
 	- 4th level - incenerator and more cages - just fight fight fight
 	- 5th level - head master office and armory - some cool armor and weapons, few medkits, key to level 6
-		- body of headmaster
+		- body of last headmaster - it's [[Roy LaBlanc]] written on the dagger.
 		- manuscript describing Erebusa curse
 			- King is only worthy of a dragon if and only if
 				- He is ready to give his blood for it
@@ -31,8 +31,10 @@
 				- I have broken all mirrors, they use them as doors
 				- I can hear screams from the upstairs
 				- I am running out of food and water
-				- I will never see the sun again
-	- 6th level - sleeping corrupted Iron Claw, the ultimate weapon, entrance is huge gate closed by unbreakable magic
+				- I will never see the sun again - I can as well explore this book, the curse will take my life, but I will be dead anyway
+				- Book describes ways to kill the dragon, it's written by [[Walter LaBlanc]], it contains the usual curse Walters likes to put on the books
+				-
+	- 6th level - sleeping [[corrupted Iron Claw]], the ultimate weapon, entrance is huge gate closed by unbreakable magic
 		- contains book about dragons
 		- experiment went wrong, Corrupted Iron Claw is uncontrollable beast that only wants to kill
 		- it's sleeping and chained, chains got rusty from time

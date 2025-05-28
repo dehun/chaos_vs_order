@@ -9,4 +9,5 @@
 - Lost book around 6 years ago, can be found at [[Carlo Snijder sawmill quest]]
 - Knows a lot about [[Iron Claw]]
 - Gives [[blue jam bottles quest]]
+- [[Roy LaBlanc]] is the son
 -
